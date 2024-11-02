@@ -58,4 +58,4 @@ Examples No.2:
   (d) Average calculation for all PACE data for specific station over available wavelengths. 
   (e) Average calculation for all AERONET data for specific station over available wavelengths. 
   
-![Alt text](https://github.com/kitokamada/Ocean-Geophysical-Remote-Sensing-Data-analyzer-OGDA/blob/main/Average_Match_Up/AverageMatchUps.ipynb)
+![Alt text](https://github.com/kitokamada/Ocean-Geophysical-Remote-Sensing-Data-analyzer-OGDA/blob/main/Average_Match_Up/NASA_PACE%20Average.png)
