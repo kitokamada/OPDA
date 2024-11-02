@@ -1,5 +1,6 @@
 # Ocean Geophysical Remote sensing Data analyzer (OGDA)
-## Author: K.K.Liao  Contact: kl4180@nyu.edu   どぞ
+## Author: K.K.Liao  
+## Contact: kl4180@nyu.edu   どぞ
 
 The scripts are used for Ocean Geophysical remote sensing research closely related to NASA PACE Satelliate Mission --> https://pace.oceansciences.org
 
@@ -30,6 +31,7 @@ Link---> https://pace.oceansciences.org/pace_data_matchups.htm
   Geo-coordinate is set as:  lat=41; lon=1.36
   Casablanca AERONET Station Coordinate (Revise the coordinate to fit your  purpose) Measurement Date:  2024 9/15
 ![Alt text](https://github.com/kitokamada/Ocean-Geophysical-Remote-Sensing-Data-analyzer-OGDA/blob/main/SatelliateSingleDayExample/20240531T161735_Casablanca.png)
+
   Step No.1:
   Go to the NASA PACE Satelliate measurements (.nc): Link--->  https://search.earthdata.nasa.gov/search?portal=obdaac to download satelliate measurement data file: "PACE_OCI.20240915T122947.L2.OC_AOP.V2_0.NRT.nc" in order to recover the result   plots presented in the folder.
 
@@ -60,4 +62,5 @@ Examples No.2:
   
 ![Alt text](https://github.com/kitokamada/Ocean-Geophysical-Remote-Sensing-Data-analyzer-OGDA/blob/main/Average_Match_Up/NASA_PACE%20Average.png)
 ![Alt text](https://github.com/kitokamada/Ocean-Geophysical-Remote-Sensing-Data-analyzer-OGDA/blob/main/Average_Match_Up/Correction.png)
-
+![Alt text](https://github.com/kitokamada/Ocean-Geophysical-Remote-Sensing-Data-analyzer-OGDA/blob/main/Average_Match_Up/Rrs_average.png)
+![Alt text](https://github.com/kitokamada/Ocean-Geophysical-Remote-Sensing-Data-analyzer-OGDA/blob/main/Average_Match_Up/All_MatchUps.png)
