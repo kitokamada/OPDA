@@ -36,6 +36,7 @@ Link---> https://pace.oceansciences.org/pace_data_matchups.htm
   Go to the NASA PACE Satelliate measurements (.nc): Link--->  https://search.earthdata.nasa.gov/search?portal=obdaac to download satelliate measurement data file: "PACE_OCI.20240915T122947.L2.OC_AOP.V2_0.NRT.nc" in order to recover the result plots presented in the folder.
   eg. Satelliate SWAP & Ocean Color Cartopy plots 
   ![Alt text](https://github.com/kitokamada/Ocean-Geophysical-Remote-Sensing-Data-analyzer-OGDA/blob/main/IntroPlotsSatelliate/20240531T161735_oceanColor.png)
+  
   ![Alt text](https://github.com/kitokamada/Ocean-Geophysical-Remote-Sensing-Data-analyzer-OGDA/blob/main/IntroPlotsSatelliate/PACE2024_05_31_T161735.png)
 
 
