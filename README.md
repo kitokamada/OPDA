@@ -29,7 +29,7 @@ Link---> https://pace.oceansciences.org/pace_data_matchups.htm
   (1) Example Folder: [SatelliateSingleDayExample]
   Geo-coordinate is set as:  lat=41; lon=1.36
   Casablanca AERONET Station Coordinate (Revise the coordinate to fit your  purpose) Measurement Date:  2024 9/15
-
+![Alt text](https://github.com/kitokamada/Ocean-Geophysical-Remote-Sensing-Data-analyzer-OGDA/blob/main/SatelliateSingleDayExample/20240531T161735_Casablanca.png)
   Step No.1:
   Go to the NASA PACE Satelliate measurements (.nc): Link--->  https://search.earthdata.nasa.gov/search?portal=obdaac to download satelliate measurement data file: "PACE_OCI.20240915T122947.L2.OC_AOP.V2_0.NRT.nc" in order to recover the result   plots presented in the folder.
 
@@ -59,3 +59,5 @@ Examples No.2:
   (e) Average calculation for all AERONET data for specific station over available wavelengths. 
   
 ![Alt text](https://github.com/kitokamada/Ocean-Geophysical-Remote-Sensing-Data-analyzer-OGDA/blob/main/Average_Match_Up/NASA_PACE%20Average.png)
+![Alt text](https://github.com/kitokamada/Ocean-Geophysical-Remote-Sensing-Data-analyzer-OGDA/blob/main/Average_Match_Up/Correction.png)
+
