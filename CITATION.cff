@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Liao"
+  given-names: "Kito"
+
+title: "Ocean Geophysical Remote Sensing Data Analyzer (OGDA)"
+version: 1.0.0
+date-released: 2024-11-01
+url: "https://github.com/kitokamada/Ocean-Geophysical-Remote-Sensing-Data-analyzer-OGDA"
